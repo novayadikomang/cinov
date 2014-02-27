@@ -1,4 +1,0 @@
-cinov
-=====
-
-Codeigniter CMS
